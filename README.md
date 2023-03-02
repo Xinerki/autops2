@@ -1,5 +1,8 @@
 # autops2
-## Automatically boot into PS2 disks using PCSX2!!
+
+# **this readme is far from done btw!!!**
+
+### Automatically boot into PS2 disks using PCSX2!!
 Made with the power of sheer anger. Sponsored (this is a joke) by CEX in Zaandam, NL.
 
 # Installation
