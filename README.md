@@ -7,6 +7,7 @@ Made with the power of sheer anger. Sponsored (this is a joke) by CEX in Zaandam
 
 # Installation
 - TODO: does deck come with python3?
+- TODO: it definitely doesnt come with pyudev for sure
 - Install `pcsx2` from pacman **(NOT FLATPAK!!!)**
     - preferrably, set up [rwfus](https://github.com/ValShaped/rwfus) beforehand instead of disabling the read-only mode.
 - Clone the repo to `~/autops2`
