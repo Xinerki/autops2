@@ -1,0 +1,9 @@
+[Unit]
+Description=Automatic PS2 disc launcher
+
+[Service]
+ExecStart=/usr/bin/env python3 /home/deck/autops2/autops2.py
+WorkingDirectory=/home/deck/autops2
+
+[Install]
+WantedBy=default.target
