@@ -2,7 +2,9 @@
 
 # **this readme is far from done btw!!!**
 
+## _As seen on [reddit](https://www.reddit.com/r/SteamDeck/comments/10ywwqd/autobooting_discs_basically_turned_my_deck_into_a/)!!!_
 ### Automatically boot into PS2 disks using PCSX2!!
+
 Made with the power of sheer anger. Sponsored (this is a joke) by CEX in Zaandam, NL.
 
 # Installation
